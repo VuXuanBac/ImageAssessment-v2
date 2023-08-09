@@ -1,0 +1,6 @@
+Index,Binary Accuracy (5.0),Average of Score Difference,Average of Std Difference,EMD(r=1),EMD(r=2),LCC(mean),LCC(std),SRCC(mean),SRCC(std)
+Rerun Paper,80.54,0.38862,0.15588,0.04312,0.06242,0.71445,0.32134,0.70884,0.33250
+Propose 1 [Assemble Learning] v7,80.15,0.41146,0.18295,0.04788,0.06689,0.70306,0.31301,0.69662,0.29992
+Propose 1 [Assemble Learning] v9,80.18,0.40602,0.18163,0.04711,0.06606,0.70549,0.30437,0.69703,0.29372
+Propose 2 [Classification - Multiply],79.92,0.40264,0.17196,0.04504,0.06443,0.69598,0.29958,0.68640,0.29279
+Propose 2 [Classification - Use Best],79.81,0.41121,0.15409,0.04516,0.06537,0.67827,0.32074,0.69317,0.32385

@@ -1,0 +1,7 @@
+Index,Epoch,Dataset,Binary Accuracy (5.0),Average of Score Difference,Average of Std Difference,EMD(r=1),EMD(r=2),LCC(mean),LCC(std),SRCC(mean),SRCC(std)
+Group 0,10,Group 0 Val,100.0,25.217,15.249,3.197,4.611,38.651,34.672,28.298,29.930
+Group 1,7,Group 1 Val,80.36,32.012,15.182,3.663,5.340,60.465,32.176,60.330,31.306
+Group 2,12,Group 2 Val,100.0,21.499,12.485,2.760,3.934,18.362,28.551,18.744,30.087
+Group 0,10,Group 0 Test,100.0,23.680,15.327,3.057,4.417,48.104,31.143,36.451,28.865
+Group 1,7,Group 1 Test,80.15,32.202,15.354,3.688,5.382,59.507,32.927,59.302,32.856
+Group 2,12,Group 2 Test,100.0,22.275,13.107,2.822,4.001,17.538,27.424,11.406,27.511
