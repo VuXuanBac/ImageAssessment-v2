@@ -34,7 +34,7 @@
 
 - Kết quả cho thấy cả hai mô hình đề xuất đều *KHÔNG* đem lại kết quả tốt hơn (nhưng cũng không tệ hơn) mô hình NIMA, mặc dù độ phức tạp mô hình là lớn hơn rất nhiều.
   - Có thể do bản chất của tập dữ liệu hoặc sự non nớt trong đề xuất ý tưởng hay sự thiếu chỉn chu trong triển khai mã nguồn.
-- Tuy nhiên, đây là kết quả của quá trình học tập (Framework PyTorch, Assemble Learning, Imbalanced Handling...) và nghiên cứu (Hiểu Paper, Nhận ra vấn đề, Đề xuất giải pháp,...) của tôi, dưới sự hướng dẫn của thầy Trịnh Văn Chiến (SOICT - HUST)
+- Tuy nhiên, đây là kết quả của quá trình học tập (Framework PyTorch, Assemble Learning, Imbalanced Handling...) và nghiên cứu (Hiểu Paper, Nhận ra vấn đề, Đề xuất giải pháp,...) của tôi, dưới sự hướng dẫn của thầy Trịnh Văn Chiến và Tống Văn Vạn (SOICT - HUST)
 
 ## File Structure
 
